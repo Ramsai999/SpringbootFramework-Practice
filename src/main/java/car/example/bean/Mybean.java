@@ -6,9 +6,9 @@ public class Mybean {
     public void setMessage(String message) {
         this.message = message;
     }
-    public void showMessage(){
-        System.out.println("Message: " + message);
-    }
+//    public void showMessage(){
+//        System.out.println("Message: " + message);
+//    }
 
     @Override
     public String toString() {
